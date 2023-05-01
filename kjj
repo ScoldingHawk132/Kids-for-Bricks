@@ -1,0 +1,38 @@
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>bricks for kids</title>
+  <style>
+  body {
+  background-color: lightblue;
+}
+
+h1 {
+  text-align: center;
+}
+
+img {
+  width: 400px;
+}
+</style>
+</head>
+
+<body>
+  <h1> Kids for bricks</h1>
+
+  <p> If you give us a brick you get a free kid!!!!!!</p>
+
+  <img src="https://images.unsplash.com/photo-1559322575-2f4e66131d55?crop=entropy&cs=srgb&fm=jpg&ixid=MnwzMjM4NDZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE2ODI5NDcxNDY&ixlib=rb-4.0.3&q=85" alt="">
+  <br>
+  <img src="https://images.unsplash.com/photo-1634745646763-1f1183bb91c1?crop=entropy&cs=srgb&fm=jpg&ixid=MnwzMjM4NDZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE2ODI5NDczNzc&ixlib=rb-4.0.3&q=85" alt="">
+  <br>
+  <img src="https://images.unsplash.com/photo-1552873816-636e43209957?crop=entropy&cs=srgb&fm=jpg&ixid=MnwzMjM4NDZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE2ODI5NDc0MDk&ixlib=rb-4.0.3&q=85" alt="">
+
+  <p>That kid is happy that he is getting sold!!!!!</p>
+
+</body>
+
+</html>
